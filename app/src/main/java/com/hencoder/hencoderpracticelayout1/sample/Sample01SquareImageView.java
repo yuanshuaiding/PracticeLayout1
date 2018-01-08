@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.widget.ImageView;
 
 
-public class Sample01SquareImageView extends ImageView {
+public class Sample01SquareImageView extends android.support.v7.widget.AppCompatImageView {
     public Sample01SquareImageView(Context context) {
         super(context);
     }
